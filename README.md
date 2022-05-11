@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Jenny, and this is the place where I try to showcase my knowhow. I really like C#, and as long as the IDE isn't Eclipse, Java is fine too :) I've also used JavaScript with ReactNative on mobileprogramming course, and Python with test cases and RobotFramework.
+
+✨ PHP is disgusting though and can go die in a fire ✨
 <!--
 **JennyKor/JennyKor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
